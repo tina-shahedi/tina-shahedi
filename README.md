@@ -63,11 +63,12 @@
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat)&nbsp;
 
-## 📈 GitHub analytics
+## 📈 GitHub at a glance
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=tina-shahedi&show_icons=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tina-shahedi&layout=compact&langs_count=8" alt="Top languages"/>
+  <a href="https://github.com/tina-shahedi?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftina-shahedi&query=%24.public_repos&label=Public%20repos&color=2C7BB6&style=for-the-badge" alt="Public repos"/></a>&nbsp;
+  <a href="https://github.com/tina-shahedi?tab=stars"><img src="https://img.shields.io/github/stars/tina-shahedi?affiliations=OWNER&label=Total%20stars&color=DFB317&style=for-the-badge" alt="Total stars"/></a>&nbsp;
+  <a href="https://github.com/tina-shahedi?tab=followers"><img src="https://img.shields.io/github/followers/tina-shahedi?label=Followers&color=2C7BB6&style=for-the-badge" alt="Followers"/></a>
 </p>
 
 ## 🤝 Get in touch
